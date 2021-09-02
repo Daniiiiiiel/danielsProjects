@@ -1,4 +1,4 @@
 # danielsProjects
 Projetos iniciais em TypeScript e ReactJs
 
-Como um bom iniciante as coisas aqui feitas serão simples, mas, com zelo e maestria!
+Como um bom iniciante, os projetos aqui serão simples, mas, pensados e criados com zelo e maestria!
